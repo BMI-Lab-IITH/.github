@@ -13,7 +13,7 @@ We collaborate with national and international partners to make significant cont
 
 ## Lab Highlights
 
-- :books: 20+ Research Publications
+- :books: 10+ Research Publications
 - :computer: 5000+ Lines of Code
 - :office: 24/7 Active Research Lab
 - :octocat: 10+ Inter and Intra Institute Collaborators
