@@ -41,7 +41,7 @@ We collaborate with national and international partners to make significant cont
 
 ## Our Latest Publications
 
-- [Deep learning on 1-D biosignals: a taxonomy-based survey](https://www.sciencedirect.com/science/article/pii/S095741742030395X)
+- [Deep learning on 1-D biosignals: a taxonomy-based survey](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0038-1667083)
 - [Convolutional neural network based emotion classification using...](https://www.sciencedirect.com/science/article/pii/S095741742030395X)
 - [Emotion recognition using electrodermal activity signals and multi...](https://link.springer.com/article/10.1007/s10916-020-01676-6)
 - [Continuous monitoring of vital signs using cameras: A systematic review](https://www.mdpi.com/1424-8220/22/11/4097)
