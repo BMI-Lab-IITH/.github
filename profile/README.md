@@ -36,7 +36,7 @@ We collaborate with national and international partners to make significant cont
 ➤〔📝〕240+ Citations 
 <br/>
 <br/>
-  ➤〔💵〕$800000+ USD 
+  ➤〔💵〕$800000+ USD Funds
 </div>
 
 <br/>
