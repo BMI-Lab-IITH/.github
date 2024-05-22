@@ -23,7 +23,7 @@ We collaborate with national and international partners to make significant cont
 ## Principal Investigator
 
 <div>
-  <img src="../assets/Nagarajan.png" alt="avatar" align="left" width="200" height="200">
+  <img src="https://github.com/BMI-Lab-IITH/.github/blob/main/assets/Nagarajan.png" alt="avatar" align="left" width="200" height="200">
 ➤〔🎓〕Assistant Prof. @ IITHyderabad
 <br/>
 <br/>
