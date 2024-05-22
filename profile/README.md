@@ -23,7 +23,7 @@ We collaborate with national and international partners to make significant cont
 ## Principal Investigator
 
 <div>
-  <img src="https://media.licdn.com/dms/image/C4E03AQF16bdrsVzC1w/profile-displayphoto-shrink_200_200/0/1624545037780?e=1694044800&v=beta&t=CZLVAihFXSHkfRQyDKRluXudrZxFQW4fsNmZwrURun8" alt="avatar" align="left" width="200" height="200">
+  <img src="../assets/Nagarajan.png" alt="avatar" align="left" width="200" height="200">
 ➤〔🎓〕Assistant Prof. @ IITHyderabad
 <br/>
 <br/>
