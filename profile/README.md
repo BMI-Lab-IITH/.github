@@ -21,8 +21,9 @@ We collaborate with national and international partners to make significant cont
 - **☕ Active Research:** Our lab operates 24/7, ensuring continuous research progress.
 - **🤝 Collaborations:** We have collaborated with over 10 different National and International Institutions.
 - **:electron: Computational Capacity:** Our lab has over 12 terabytes of computational capacity.
-- **Lab Equipment:** We have more than 200 pieces of electrical and non-electrical lab equipment.
-- 
+- **🔌 Lab Equipment:** We have more than 200 pieces of electrical and non-electrical lab equipment.
+
+  
 ## Principal Investigator
 
 <div>
