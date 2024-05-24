@@ -18,7 +18,7 @@ We collaborate with national and international partners to make significant cont
 - **📚 Research Publications:** Over 20 papers published in reputable journals and conferences
 - **📃 Patents:** We hold more than 2 patents in our field
 - **💻 Codebase:** Our lab has developed over 14,000 lines of code
-- **☕ Active Research:** Our lab operates 24/7, ensuring continuous research progress.
+- **☕ Active Research:** Our lab operates 24/7, ensuring continuous research progress
 - **🤝 Collaborations:** We have collaborated with over 10 different National and International Institutions.
 - **:electron: Computational Capacity:** Our lab has over 12 terabytes of computational capacity.
 - **🔌 Lab Equipment:** We have more than 200 lab equipments and devices for our research
