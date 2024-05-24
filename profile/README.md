@@ -13,16 +13,16 @@ At the Biomedical Informatics (BMI) Research Lab at IITH, we are dedicated to ad
 
 We collaborate with national and international partners to make significant contributions to the scientific community. Join us to explore, collaborate, and make a meaningful impact in the world of research.
 
-## Lab Highlights
+## Highlights of Our Lab
 
-- :books: 20+ Research Publications
-- 📃: 2+ Patents
-- :computer: 14000+ Lines of Code
-- :office: 24/7 Active Research Lab
-- :octocat: 10+ Inter and Intra Institute Collaborators
-- 💾 12+ Terabyte in lab Computational Capablity
+- **📚Research Publications:** Over 20 papers published in reputable journals and conferences.
+- **Patents:** We hold more than 2 patents in our field.
+- **Codebase:** Our lab has developed over 14,000 lines of code.
+- **Active Research:** Our lab operates 24/7, ensuring continuous research progress.
+- **Collaborations:** We have collaborated with over 10 different institutions, both within and outside our institute.
+- **Computational Capacity:** Our lab has over 12 terabytes of computational capacity.
+- **Lab Equipment:** We have more than 200 pieces of electrical and non-electrical lab equipment.
 - 
-
 ## Principal Investigator
 
 <div>
