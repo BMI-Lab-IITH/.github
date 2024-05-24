@@ -20,7 +20,8 @@ We collaborate with national and international partners to make significant cont
 - :computer: 14000+ Lines of Code
 - :office: 24/7 Active Research Lab
 - :octocat: 10+ Inter and Intra Institute Collaborators
-- :computer: 12+ Terabyte in lab Computational Capablity
+- 💾 12+ Terabyte in lab Computational Capablity
+- 
 
 ## Principal Investigator
 
