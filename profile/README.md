@@ -58,7 +58,7 @@ We collaborate with national and international partners to make significant cont
 
 ## Our TechStack
 ### **🖥️ Operating System**
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS" style="vertical-align: middle;">
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
