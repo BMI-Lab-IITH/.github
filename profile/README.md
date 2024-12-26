@@ -15,8 +15,8 @@ We collaborate with national and international partners to make significant cont
 
 ## Highlights of Our Lab
 
-- **📚 Research Publications:** Over 20 papers published in reputable journals and conferences
-- **📃 Patents:** We hold more than 2 patents in our field
+- **📚 Research Publications:** Over 60+ papers published in reputable journals and conferences
+- **📃 Patents:** We hold more than 4 patents in our field
 - **💻 Codebase:** Our lab has developed over 14,000 lines of code
 - **☕ Active Research:** Our lab operates 24/7, ensuring continuous research progress
 - **🤝 Collaborations:** We have collaborated with over 10 different National and International Institutions
@@ -37,7 +37,7 @@ We collaborate with national and international partners to make significant cont
 ➤〔🔬〕Ph.D. IIT Madras
 <br/>
 <br/>
-➤〔📝〕420+ Citations 
+➤〔📝〕600+ Citations 
 <br/>
 <br/>
   ➤〔💵〕$800000+ USD Funds
