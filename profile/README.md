@@ -1,8 +1,8 @@
-# <p align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Welcome to BMI Lab IITH 🏢</p>
+# <p align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Welcome to Medical Informatics and Digital Health (MInDH) Lab IITH 🏢</p>
 
 ![banner](https://github.com/BMI-Lab-IITH/.github/blob/main/assets/banner.png)
 
-At the Biomedical Informatics (BMI) Research Lab at IITH, we are dedicated to advancing knowledge and pushing the boundaries of scientific discovery in the following fields:
+At the MInDH Lab at IITH, we are dedicated to advancing knowledge and pushing the boundaries of scientific discovery in the following fields:
 
 - Signal and Image Processing
 - Affective Computing
