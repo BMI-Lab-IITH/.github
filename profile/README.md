@@ -37,7 +37,7 @@ We collaborate with national and international partners to make significant cont
 ➤〔🔬〕Ph.D. IIT Madras
 <br/>
 <br/>
-➤〔📝〕600+ Citations 
+➤〔📝〕1000+ Citations 
 <br/>
 <br/>
   ➤〔💵〕$800000+ USD Funds
